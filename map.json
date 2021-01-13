@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=UGlPbphlpBg"
+                 "value":"https:\/\/www.youtube.com\/embed\/Ccll1mKk_3w"
                 }],
          "type":"tilelayer",
          "visible":true,
